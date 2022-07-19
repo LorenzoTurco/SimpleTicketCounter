@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleTicketCounter/static/css/main.ce4a121c.css",
+    "main.js": "/SimpleTicketCounter/static/js/main.8e36af7d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SimpleTicketCounter/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SimpleTicketCounter/index.html",
+    "main.ce4a121c.css.map": "/SimpleTicketCounter/static/css/main.ce4a121c.css.map",
+    "main.8e36af7d.js.map": "/SimpleTicketCounter/static/js/main.8e36af7d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SimpleTicketCounter/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce4a121c.css",
+    "static/js/main.8e36af7d.js"
+  ]
+}

@@ -1,6 +1,6 @@
 ## Ticket Tracker
 
-#### Simple ticket tracking application where I get to showcase several web development skills such as: HTML, SCSS, JS, React, props, destructuring, array methods and the use of states.
+Simple ticket tracking application where I get to showcase several web development skills such as: HTML, SCSS, JS, React, props, destructuring, array methods and the use of states.
 
 <br>
 

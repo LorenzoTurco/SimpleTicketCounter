@@ -1,0 +1,13 @@
+.app{
+
+    margin:1rem;
+    
+    .card-container{
+
+        display:flex;
+        justify-content:center;
+        gap: 2rem;
+        flex-wrap: wrap;     
+    }
+}
+

@@ -1,0 +1,34 @@
+.card-list {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.card-list .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.1s;
+  padding: 3rem;
+  text-align: center;
+  font-size: 2rem;
+  width: 20rem;
+}
+.card-list .card .card__info {
+  height: 20rem;
+}
+.card-list .card .card__tickets {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.card-list .card .card__tickets .card__decrease {
+  font-size: 4rem;
+}
+.card-list .card .card__tickets .card__increase {
+  font-size: 4rem;
+}
+.card-list .card .card__tickets .card__number {
+  font-size: 4rem;
+}
+.card-list .card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
